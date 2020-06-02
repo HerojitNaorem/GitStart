@@ -1,3 +1,5 @@
 git add -to add file to localRepo
 git commit	-to commit changes to localRepo
 git push	-to commit changes to GitHubRepo
+git branch 'branchname' -to create branchname
+git checkout -b 'branchname' -to checkout and create branchname
