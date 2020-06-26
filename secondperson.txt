@@ -1,2 +1,6 @@
 secondperson
+<<<<<<< HEAD
 first person edited
+=======
+second commit
+>>>>>>> 592576dfed5e0649bba99bf0c592f1679dac421a
